@@ -82,7 +82,7 @@ check the docs of each library on how to link manually.
   <PhotoUpload>
     <Image
       source={{
-        uri: 'https://www.sparklabs.com/forum/styles/comboot/theme/images/default_avatar.jpg'
+        uri: 'https://i.imgur.com/S1qn5P6.jpg'
       }}
     />
   </PhotoUpload>
@@ -110,7 +110,7 @@ check the docs of each library on how to link manually.
       }}
       resizeMode='cover'
       source={{
-        uri: 'https://www.sparklabs.com/forum/styles/comboot/theme/images/default_avatar.jpg'
+        uri: 'https://i.imgur.com/S1qn5P6.jpg'
       }}
     />
   </PhotoUpload>
