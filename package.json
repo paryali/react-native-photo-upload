@@ -32,7 +32,8 @@
     "picker",
     "base64",
     "ios",
-    "android"
+    "android",
+    "upload"
   ],
   "author": "Ritesh Paryali <riteshparyali@outlook.com>",
   "license": "MIT"
