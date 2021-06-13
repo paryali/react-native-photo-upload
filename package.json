@@ -1,11 +1,11 @@
 {
-  "name": "react-native-photo-upload",
+  "name": "react-native-photo-uploads",
   "version": "1.3.0",
   "description": "Cross platform photo upload component for react native",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/malsapp/react-native-photo-upload.git"
+    "url": "git+https://github.com/paryali/react-native-photo-uploads.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,6 +34,6 @@
     "ios",
     "android"
   ],
-  "author": "Omar Khaled <omarkhaled320@hotmail.com>",
+  "author": "Ritesh Paryali <riteshparyali@outlook.com>",
   "license": "MIT"
 }
