@@ -1,4 +1,4 @@
-# react-native-photo-upload
+# react-native-photo-uploads
 
 ![screenshot](http://g.recordit.co/egzm6lL96l.gif)
 
@@ -10,11 +10,11 @@ it takes an image component and upon click, you get the image picker prompt, get
 npm or yarn install
 
 ```
-npm install react-native-photo-upload --save
+npm install react-native-photo-uploads --save
 ```
 or
 ```
-yarn add react-native-photo-upload
+yarn add react-native-photo-uploads
 ```
 ## Automatic Installation
 
@@ -92,7 +92,7 @@ check the docs of each library on how to link manually.
 
  ```
   import { Image } from 'react-native'
-  import PhotoUpload from 'react-native-photo-upload'
+  import PhotoUpload from 'react-native-photo-uploads'
 
   <PhotoUpload
     onPhotoSelect={avatar => {
